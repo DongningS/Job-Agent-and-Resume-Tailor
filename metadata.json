@@ -1,0 +1,6 @@
+{
+  "name": "Job Agent and Resume Tailor",
+  "description": "An interactive full-stack suite that crawls/searches job postings using Google Search Grounding, matches and rate fitness against uploaded docx resumes, and generates personalized tailored resumes and cover letters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
